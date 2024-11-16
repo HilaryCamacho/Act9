@@ -1,1 +1,50 @@
-hola, este es mi primer archivo en main
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   archivo1.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	"../1\302\252 SOY LECTOR.pdf"
+	"../2\302\272 SOY LECTOR.pdf"
+	"../3\302\252 SOY LECTOR.pdf"
+	"../4\302\260 SOY LECTOR.pdf"
+	"../5\302\272 SOY LECTOR PART1.pdf"
+	"../5\302\272 SOY LECTOR PART2- MD  EDUCATIVO.pdf"
+	../Aby/
+	../BORRADOR  Inv. Doc Trabajo Final.docx
+	../Balance_1-6_B ABIGAIL44662.xlsx
+	../CRONOGRAMA TIEMPO C. ENERO 2024.docx
+	"../Comprobante_de_conclusi\303\263n.pdf"
+	"../Cuestionario INVESTIGACI\303\223N DOC. II.docx"
+	"../Cuestionario INVESTIGACI\303\223N DOC. II.pdf"
+	../DOC 6_Investigacion Doc.docx
+	../Docker Desktop.lnk
+	../Ensayo Final_Etica.docx
+	../Ensayo Final_Etica.pdf
+	../Guia PH-20240701T030756Z-001 - Acceso directo.lnk
+	"../Hip\303\263tesis_INVESTIGACI\303\223N DOC II.docx"
+	"../Hip\303\263tesis_INVESTIGACI\303\223N DOC II.pdf"
+	"../Introducci\303\263n INVESTIGACI\303\223N DOC II.docx"
+	"../Introducci\303\263n INVESTIGACI\303\223N DOC II.pdf"
+	../Inv. Doc Trabajo Final.docx
+	../Inv. Doc Trabajo Final.pdf
+	"../Magda PROMOCI\303\223N HORIZONTAL/"
+	../Microsoft Edge.lnk
+	../MongoDBCompass.lnk
+	../Navegador Seguro CENEVAL.lnk
+	../Persona 1 - Chrome.lnk
+	../Primer informe INV.DOC II.docx
+	../Reporte_Etica.docx
+	../Reporte_Etica.pdf
+	../Roberto_Investigacion Doc II.docx
+	../Roberto_Investigacion Doc II.pdf
+	"../Segundo Informe INVESTIGACIO\314\201N DOC II.pdf"
+	../Semblanza SEMINARIO.docx
+	../Zoom Workplace.lnk
+	../archivo1.txt
+	../desktop.ini
+	../extraer/
+
+no changes added to commit (use "git add" and/or "git commit -a")
